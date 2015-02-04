@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # vim_collection
 
 install vim 7.4 on ubuntu 12.04
@@ -33,6 +32,8 @@ ref for file explore
 
 https://github.com/scrooloose/nerdtree
 
-=======
-# .vim
->>>>>>> ed6b4fa5d6ac8ccb5268d791ea20d676fe054128
+vim as a python IDE
+
+http://michiganlabs.com/vim-python-ide/#.VNIIKy788mM
+
+
