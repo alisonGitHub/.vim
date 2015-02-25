@@ -16,3 +16,4 @@ setlocal noswapfile
 set bufhidden=hide
 
 set nobackup
+let g:EasyMotion_leader_key='<Leader>'
