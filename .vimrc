@@ -17,3 +17,6 @@ set bufhidden=hide
 
 set nobackup
 let g:EasyMotion_leader_key='<Leader>'
+
+let g:pymode_options_colorcolumn=0
+hi colorcolumn ctermbg=8
